@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Ayush Pratap Singh**, a B.Tech IT + MBA student at **ABV-IIITM Gwalior**.
+Hi, I'm **Ayush Pratap Singh**, a B.Tech Information Technology student at **ABV-IIITM Gwalior**.
 
 I'm a **Full Stack Developer**, **DevOps Enthusiast**, and **Open Source Contributor** passionate about building scalable applications, cloud-native solutions, and automation workflows.
 
