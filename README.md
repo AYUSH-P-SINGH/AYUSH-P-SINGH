@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+## 👨‍💻 About Me
+
+Hi, I'm **Ayush Pratap Singh**, a B.Tech IT + MBA student at **ABV-IIITM Gwalior**.
+
+I'm a **Full Stack Developer**, **DevOps Enthusiast**, and **Open Source Contributor** passionate about building scalable applications, cloud-native solutions, and automation workflows.
+
+Currently exploring **Backend Engineering**, **Cloud Computing**, **CI/CD**, and **Generative AI** while continuously improving my problem-solving and software development skills.
+
+> Building, learning, and contributing one project at a time.
+
 <!--
 **AYUSH-P-SINGH/AYUSH-P-SINGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
